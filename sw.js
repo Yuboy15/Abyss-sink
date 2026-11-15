@@ -1,8 +1,8 @@
 /* ABYSS offline shell. Render both build placeholders before publishing. */
 'use strict';
 
-const VERSION = '11.2';
-const BUILD_ID = 'v112structuralwaves';
+const VERSION = '11.3';
+const BUILD_ID = 'v113springmesh';
 const SCOPE = new URL(self.registration.scope);
 const scopeKey = (() => {
   let hash = 2166136261;
