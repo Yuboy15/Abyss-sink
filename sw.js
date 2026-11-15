@@ -1,8 +1,8 @@
 /* ABYSS offline shell. Render both build placeholders before publishing. */
 'use strict';
 
-const VERSION = '11.7';
-const BUILD_ID = 'v117stringtransport1';
+const VERSION = '11.8';
+const BUILD_ID = 'v118stringkeel1';
 const SCOPE = new URL(self.registration.scope);
 const scopeKey = (() => {
   let hash = 2166136261;
