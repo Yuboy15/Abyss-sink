@@ -2,7 +2,7 @@
 'use strict';
 
 const VERSION = '11.6';
-const BUILD_ID = 'v116distributedloads';
+const BUILD_ID = 'v116displayfix1';
 const SCOPE = new URL(self.registration.scope);
 const scopeKey = (() => {
   let hash = 2166136261;
